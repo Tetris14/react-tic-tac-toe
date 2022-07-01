@@ -1,2 +1,1 @@
-# portfolio
-a repo for my web portfolio in React
+This is where i'll push my web portfolio made in React
